@@ -1,0 +1,13 @@
+[Question:] Very Stupid Question
+
+[Answer:] Equally stupid answer
+
+[Question:] Very Stupid Question 2
+
+[Answer:] Equally stupid answer 2
+[Question:] Very Stupid Question 3
+
+[Answer:] Equally stupid answer 3
+[Question:] Very Stupid Question 4
+
+[Answer:] Equally stupid answer 4
