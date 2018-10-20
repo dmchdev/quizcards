@@ -30,7 +30,7 @@ Fill your quizcards.txt with questions/answers, or create your own file in the f
 2. Run this command in your favorite command line:
 
 ```
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 ```
 
 ### Running the program in GUI mode
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. Run the following command in your command line:
 
 ```
-python quizcards.py 
+**python quizcards.py** 
 ```
 
 2. Use File menu on the GUI to locate your questions file quizcards.txt etc.
@@ -48,6 +48,6 @@ python quizcards.py
 1. Run the following command in your command line:
 
 ```
-python quizcards.py -filename quizcards.txt -nogui -randomize
+**python quizcards.py -filename quizcards.txt -nogui -randomize**
 ```
-This will load the quizcards.txt file and start your program without the GUI, questions will be picked from the file at random. You can youse your own filename. If you wish not to randomize questions, do not specify the -randomize in the command. 
+This will load the quizcards.txt file and start your program without the GUI, questions will be picked from the file at random. You can use your own filename. If you wish not to randomize questions, do not specify the  **-randomize**  in the command. 
